@@ -1,0 +1,8 @@
+{
+  "name": "ezerwright-email-dns-auditor",
+  "version": "0.1.0-rc.1",
+  "description": "Read-only checks of public MX, SPF, DMARC and user-specified DKIM DNS records.",
+  "author": {"name": "EZERWRIGHT", "url": "https://ezerwright.com"},
+  "homepage": "https://ezerwright.com/plugins/",
+  "license": "MIT"
+}
